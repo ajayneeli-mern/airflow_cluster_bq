@@ -1,0 +1,1 @@
+automate process to create cluster and run spark scripts and delete cluster
